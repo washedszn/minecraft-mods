@@ -1,0 +1,122 @@
+[
+    {
+        "name": "WITHER",
+        "price": 1000,
+        "rate": 0.1
+    },
+    {
+        "name": "ENDERMITE",
+        "price": 0,
+        "rate": 1
+    },
+    {
+        "name": "HOGLIN",
+        "price": 0,
+        "rate": 1
+    },
+    {
+        "name": "RAVAGER",
+        "price": 0,
+        "rate": 1
+    },
+    {
+        "name": "MAGMA_CUBE",
+        "price": 0,
+        "rate": 1
+    },
+    {
+        "name": "GHAST",
+        "price": 0,
+        "rate": 1
+    },
+    {
+        "name": "WITHER_SKELETON",
+        "price": 0,
+        "rate": 1
+    },
+    {
+        "name": "SHULKER",
+        "price": 0,
+        "rate": 1
+    },
+    {
+        "name": "ZOGLIN",
+        "price": 0,
+        "rate": 2
+    },
+    {
+        "name": "EVOKER",
+        "price": 0,
+        "rate": 2
+    },
+    {
+        "name": "WITCH",
+        "price": 1,
+        "rate": 2
+    },
+    {
+        "name": "BLAZE",
+        "price": 0,
+        "rate": 3
+    },
+    {
+        "name": "PHANTOM",
+        "price": 0,
+        "rate": 3
+    },
+    {
+        "name": "VEX",
+        "price": 0,
+        "rate": 3
+    },
+    {
+        "name": "STRAY",
+        "price": 2,
+        "rate": 4
+    },
+    {
+        "name": "SKELETON",
+        "price": 2,
+        "rate": 4
+    },
+    {
+        "name": "GUARDIAN",
+        "price": 4,
+        "rate": 5
+    },
+    {
+        "name": "ELDER_GUARDIAN",
+        "price": 4,
+        "rate": 5
+    },
+    {
+        "name": "PILLAGER",
+        "price": 2,
+        "rate": 5
+    },
+    {
+        "name": "VINDICATOR",
+        "price": 2,
+        "rate": 5
+    },
+    {
+        "name": "ZOMBIE_VILLAGER",
+        "price": 1,
+        "rate": 5
+    },
+    {
+        "name": "ZOMBIE",
+        "price": 1,
+        "rate": 10 
+    },
+    {
+        "name": "HUSK",
+        "price": 1,
+        "rate": 10
+    },
+    {
+        "name": "CREEPER",
+        "price": 1,
+        "rate": 10
+    }
+]
